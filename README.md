@@ -1,4 +1,8 @@
 # Analysis-of-the-Disk-Structure-using-Sleuth-Kit
+
+### Name: E Varsha Sharon
+### Register number : 212222100058
+
 ## AIM:
 To analyze the disk structure of a given disk image using Sleuth Kit tools in Kali Linux.
 
