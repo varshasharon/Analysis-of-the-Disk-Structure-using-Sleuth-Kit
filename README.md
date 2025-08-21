@@ -71,6 +71,9 @@ icat.exe -o 2048 C:\forensics\disk.dd 6 > C:\forensics\image.jpg
 ```
 ## OUTPUT:
 Disk Structure Analysis Results
+<img width="906" height="343" alt="image" src="https://github.com/user-attachments/assets/6082b8b5-29e6-4ac4-8bfd-f0cb254763ac" />
+<img width="920" height="727" alt="Screenshot 2025-08-21 142252" src="https://github.com/user-attachments/assets/a3202f99-778d-4ec7-9a92-c33f8bb2c246" />
+
 
 ## RESULT:
 The analysis was performed successfully using Sleuth Kit, and the disk structure was understood in detail.
